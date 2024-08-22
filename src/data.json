@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "service": "Full-Service Wedding Planning",
+      "price": "$1000",
+      "details": "Our comprehensive wedding planning package covers every aspect of your special day. From venue selection to vendor coordination, we take care of it all, ensuring a seamless and stress-free experience for you.",
+      "img": "https://images.hindustantimes.com/img/2022/04/20/960x540/amish-thakkar-7O422yG_b80-unsplash_1650456963232_1650457184254.jpg"
+      ,
+      "included_services": [
+        "Venue selection and booking",
+        "Vendor management",
+        "Budget planning and management",
+        "Design and decor",
+        "Guest list management",
+        "RSVP coordination",
+        "Timeline creation",
+        "Day-of coordination"]
+    },
+    {
+      "id": 2,
+      "service": "Partial Wedding Planning",
+      "price": "$150",
+      "details": "Already have some aspects of your wedding planned? Our partial planning service allows you to customize the level of assistance you need. We'll step in to fill in the gaps and ensure everything comes together perfectly.",
+      "img": "https://images.hindustantimes.com/img/2022/04/20/960x540/guanfranco-g-82p7JgzKOpo-unsplash_1650457271390_1650457295641.jpg",
+      "included_services": [
+        "Vendor recommendations",
+        "Design assistance",
+        "Day-of coordination"
+      ]
+    },
+    {
+      "id": 3,
+      "service": "Day-of Coordination",
+      "price": "$130",
+      "details": "On the big day, you should be focused on enjoying the moment, not managing logistics. Our day-of coordination service ensures that everything runs smoothly, from setup to tear-down, so you can savor every precious moment.",
+      "img": "https://images.hindustantimes.com/img/2022/04/20/960x540/EnMN8dFUwAAWjR5_1650458799348_1650458829704.jpg",
+      "included_services": [
+        "Venue setup",
+        "Vendor coordination",
+        "Timeline management",
+        "Guest assistance",
+        "Emergency kit"
+      ]
+    },
+    {
+      "id": 4,
+      "service": "Design and Decor",
+      "price": "$100",
+      "details": "Transform your chosen venue into a breathtaking space that reflects your unique style and vision. Our design and decor service brings your dream wedding to life with exquisite details, lighting, floral arrangements, and more.",
+      "img": "https://images.hindustantimes.com/img/2022/04/20/960x540/DLrbHgBUMAA-CNH_1650459047183_1650459066544.jpg",
+      "included_services": [
+        "Theme development",
+        "Floral arrangements",
+        "Lighting design",
+        "Tablescapes",
+        "Custom signage",
+        "Rentals coordination"
+      ]
+    },
+    {
+      "id": 5,
+      "service": "Vendor Management",
+      "price": "$170",
+      "details": "With our extensive network of trusted vendors, we help you assemble a dream team for your wedding day. From photographers to caterers, we connect you with the best in the industry to ensure top-notch services.",
+      "img": "https://images.hindustantimes.com/img/2022/04/20/960x540/CoWE4dwWAAEUhk4_1650458554064_1650458583077.jpg",
+      "included_services": [
+        "Vendor recommendations",
+        "Contract negotiations",
+        "Vendor communications",
+        "Payment coordination"
+      ]
+    },
+    {
+      "id": 6,
+      "service": "Destination Wedding Planning",
+      "price": "$140",
+      "details": "Dreaming of a destination wedding? We specialize in planning unforgettable celebrations in breathtaking locations around the world. From tropical beaches to historic landmarks, we'll help you create a magical experience for you and your guests.",
+      "img": "https://images.hindustantimes.com/img/2022/04/20/960x540/DmulrvKXcAAMsWN_1650458159875_1650458189764.jpg",
+      "included_services": [
+        "Venue selection (local or international)",
+        "Travel and accommodation coordination",
+        "Legal and paperwork assistance",
+        "Cultural considerations"
+      ]
+    }
+  ]
